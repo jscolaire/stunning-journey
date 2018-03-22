@@ -14,7 +14,7 @@ theme = "minimal"
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
-    highlightStyle = "solarized-dark"
+    # highlightStyle = "solarized-light"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]

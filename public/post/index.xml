@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linux práctico</title>
-    <link>http://jscolaire.netlify.com/</link>
-    <description>Recent content on Linux práctico</description>
+    <title>Posts on Linux práctico</title>
+    <link>http://jscolaire.netlify.com/post/</link>
+    <description>Recent content in Posts on Linux práctico</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Thu, 22 Mar 2018 19:00:59 +0100</lastBuildDate>
     
-	<atom:link href="http://jscolaire.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jscolaire.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
