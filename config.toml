@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "http://jscolaire.netlify.com/"
 languageCode = "es-ES"
 title = "Linux práctico"
 theme = "minimal"
